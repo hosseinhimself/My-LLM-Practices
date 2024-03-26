@@ -1,14 +1,18 @@
-# Learning with Large Language Models
+# My Language Model Learning Repository
 
-Welcome to my GitHub repository where I document my journey of learning to work with large language models! Here you'll find exercises, prompts, and code snippets related to natural language processing.
+This repository contains exercises, prompts, and codes related to my journey in learning how to work with large language models. I follow tutorials from Shaw Talebi's YouTube channel for guidance.
 
-## Code Samples
+Feel free to explore and contribute to this repository as I continue my learning journey in the world of language models!
 
-In this section, you'll find the codes I've written to experiment with large language models. These codes are executed on Google Colab for ease of access and collaboration.
+
+## Code Examples
+In this section, you'll find codes written by me for various exercises and projects. These codes are implemented using Google Colab for ease of access and execution.
+
 
 ## Prompts
+This section contains prompts I've written to generate text using the learned concepts. These prompts are essential for honing my skills in working with large language models.
 
-Here, I share the prompts I've crafted to generate various text outputs using large language models. These prompts serve as inputs to generate diverse and interesting responses from the models.
+
 
 ---
 
