@@ -2,10 +2,12 @@
 Here, I document my prompts for each Language Model (LLM) I collaborate with. I am committed to enhancing my prompt-writing skills to optimize model performance. 
 
 ### **Prompt 1**: 
-> You are a psychologist. Show me some examples of sentences told by people and show me the effection of each ego state in the sentence.
+```
+You are a psychologist. Show me some examples of sentences told by people and show me the effection of each ego state in the sentence.
 show the power of each ego state by pecent in each sentence. in this format
-> 1. [...the sentence] : [adult: "the percent", child: "the percent", parent: "the percent"]
+1. [...the sentence] : [adult: "the percent", child: "the percent", parent: "the percent"]
 bring at least 10 sentences.
+```
 
 ### **Answer (ChatGPT 3.5)**:
 ```
@@ -47,4 +49,16 @@ These percentages are approximate estimations and may vary depending on interpre
 
 10. "I need to break down this project into smaller tasks. What's the first step?": [Adult: 80%, Child: 10%, Parent: 10%] - The Adult is in full control here, planning and strategizing (80%), with the Child's playful energy potentially contributing (10%) and the Parent offering some structure (10%).
  
+```
+
+### Prompt 2:
+```
+I am learning how to work with large language models. I put my exercises and prompts in a GitHub repository. I follow these tutorials on Shaw Talebi's YouTube channel.
+I put both the codes I write and the prompts I write.
+I want you to write a readme in markdown format.
+* Point to the codes I write in one section (the codes are written in Google colab)
+* Point to the prompts that I write in a section
+* Each section should not be more than 100 words.
+* I am going to copy the text directly. Avoid writing additions
+also add a sentence at the end that the readme is written by a prompt in ChatGpt 3.5
 ```
